@@ -1,17 +1,17 @@
 # st
 My custom build of [st](https://st.suckless.org/).
 
-# Install
+## Install
 ```sh
 make clean install
 ```
 
-# Uninstall
+## Uninstall
 ```sh
 make clean uninstall
 ```
 
-# Sync with upstream
+## Sync with upstream
 ```sh
 git remote add upstream https://git.suckless.org/st
 git fetch upstream
