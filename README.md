@@ -16,5 +16,5 @@ make clean uninstall
 git remote add upstream https://git.suckless.org/st
 git fetch upstream
 git checkout master
-git merge upstream master
+git merge upstream/master master
 ```
