@@ -1118,17 +1118,8 @@ xinit(int cols, int rows)
 	pid_t thispid = getpid();
 	XColor xmousefg, xmousebg;
 
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
 	if (!(xw.dpy = XOpenDisplay(NULL)))
 		die("can't open display\n");
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
 	xw.scr = XDefaultScreen(xw.dpy);
 	xw.vis = XDefaultVisual(xw.dpy, xw.scr);
 
