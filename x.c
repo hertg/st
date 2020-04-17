@@ -1119,8 +1119,11 @@ xinit(int cols, int rows)
 	XColor xmousefg, xmousebg;
 
 <<<<<<< ours
+<<<<<<< ours
 	if (!(xw.dpy = XOpenDisplay(NULL)))
 		die("can't open display\n");
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 	xw.scr = XDefaultScreen(xw.dpy);
