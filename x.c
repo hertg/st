@@ -1120,8 +1120,11 @@ xinit(int cols, int rows)
 
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 	if (!(xw.dpy = XOpenDisplay(NULL)))
 		die("can't open display\n");
+=======
+>>>>>>> theirs
 =======
 >>>>>>> theirs
 =======
