@@ -1,12 +1,14 @@
 # st
 My custom build of [st](https://st.suckless.org/).
 
-# Patches
-- [xresources](https://st.suckless.org/patches/xresources/)
-
-# Build
+# Install
 ```sh
 make clean install
+```
+
+# Uninstall
+```sh
+make clean uninstall
 ```
 
 # Sync with upstream
