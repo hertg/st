@@ -16,3 +16,4 @@ sudo make clean install
 - [desktopentry](https://st.suckless.org/patches/desktopentry/)
 - [scrollback](https://st.suckless.org/patches/scrollback/)\
     Allows scrolling with `Alt + j/k`
+- [xresources](https://st.suckless.org/patches/xresources/)
