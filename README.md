@@ -11,3 +11,4 @@ sudo make clean install
 
 ## Patches
 - [bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
+- [alpha](https://st.suckless.org/patches/alpha/)
